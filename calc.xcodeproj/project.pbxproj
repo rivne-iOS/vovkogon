@@ -105,9 +105,9 @@
 				84F75EC61C2B521B00F341B2 /* AppDelegate.m */,
 				84F75EC81C2B521B00F341B2 /* ViewController.h */,
 				84F75EC91C2B521B00F341B2 /* ViewController.m */,
-				84F75ECB1C2B521B00F341B2 /* Main.storyboard */,
 				84F75ECE1C2B521B00F341B2 /* Assets.xcassets */,
 				84F75ED01C2B521B00F341B2 /* LaunchScreen.storyboard */,
+				84F75ECB1C2B521B00F341B2 /* Main.storyboard */,
 				84F75ED31C2B521B00F341B2 /* Info.plist */,
 				84F75EC21C2B521B00F341B2 /* Supporting Files */,
 			);
@@ -498,6 +498,7 @@
 				84F75EEE1C2B521C00F341B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84F75EEF1C2B521C00F341B2 /* Build configuration list for PBXNativeTarget "calcTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +507,7 @@
 				84F75EF11C2B521C00F341B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84F75EF21C2B521C00F341B2 /* Build configuration list for PBXNativeTarget "calcUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +516,7 @@
 				84F75EF41C2B521C00F341B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
